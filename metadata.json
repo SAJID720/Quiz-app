@@ -1,0 +1,5 @@
+{
+  "name": "Language Explorer Game",
+  "description": "A fun and interactive game to test your knowledge of official languages spoken in countries around the world. Get fun facts about languages powered by the Gemini API.",
+  "requestFramePermissions": []
+}
